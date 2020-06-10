@@ -1,1 +1,2 @@
-# MIT_6.00.1.x
+# MIT 6.00.1x
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
